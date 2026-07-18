@@ -20,6 +20,7 @@ Connect a real BMW / Mini F-series instrument cluster to BeamNG.drive (or any ot
 | BMW E-series (E46, E90, E60, ...) | ❌ Unsupported |
 
 ⚠️ Untested —  means these clusters use the same CAN messages, so they should work, but nobody has confirmed it yet.
+
 Tested one? Let us know on Discord (see below) or open an issue.
 
 ## Wiring
