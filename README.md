@@ -20,7 +20,7 @@ Connect a real BMW / Mini F-series instrument cluster to BeamNG.drive (or any ot
 | BMW E-series (E46, E90, E60, ...) | ❌ Unsupported |
 
 ⚠️ Untested —  means these clusters use the same CAN messages, so they should work, but nobody has confirmed it yet.
-Tested one? Let us know on Discord or open an issue.
+Tested one? Let us know on Discord (see below) or open an issue.
 
 ## Wiring
 
@@ -32,10 +32,6 @@ Tested one? Let us know on Discord or open an issue.
 | 6 | Shield CAN-H |
 | 12 | Shield CAN-L |
 | 4, 5 | optional 10k NTC for the outside temperature display |
-
-## Support
-
-Questions, help with your setup, or want to show off your build? Join the **BimmerCraft** Discord: https://discord.gg/bHQ95tqWrw
 
 ## Software setup
 
@@ -81,6 +77,12 @@ Questions, help with your setup, or want to show off your build? Join the **Bimm
 - TCS / DSC warning
 - ABS
 - Handbrake
+
+
+## Support
+
+Questions, help with your setup, or want to show off your build? Join the **BimmerCraft** Discord: https://discord.gg/bHQ95tqWrw
+
 
 ## Credits
 
