@@ -1,14 +1,26 @@
 # BMW / Mini F-Series Cluster SimHub
 
 Connect a real BMW / Mini F-series instrument cluster to BeamNG.drive (or any other game supported by SimHub) and display live telemetry using nothing more than an Arduino UNO and a Seeed CAN-BUS Shield V2.
+
 ## Hardware
 
 - Arduino UNO (or clone)
 - Seeed Studio CAN-BUS Shield V2 (MCP2515, 16 MHz crystal, CS on D9)
-- BMW / Mini F-series instrument clusters — **tested only with a Mini F56 cluster** (set `IS_CAR_MINI` to `true`).
-- F10/F20/F30 clusters should work since they use the same CAN message set, but have not been tested yet. Feedback from anyone testing these clusters is welcome.
+- BMW / Mini F-series instrument cluster (see compatibility below)
 - 12 V power supply for the cluster
 - PC running SimHub
+
+## Cluster compatibility
+
+| Cluster | Status |
+| ------- | ------ |
+| Mini F56 | ✅ Working |
+| Other Mini F5x | ⚠️ Untested |
+| BMW F-series (F20, F30, F10, ...) | ⚠️ Untested |
+| BMW E-series (E46, E90, E60, ...) | ❌ Unsupported |
+
+⚠️ Untested —  means these clusters use the same CAN messages, so they should work, but nobody has confirmed it yet.
+Tested one? Let us know on Discord or open an issue.
 
 ## Wiring
 
@@ -54,6 +66,7 @@ The shield's onboard 120 Ω termination stays enabled. The bus runs at 500 kbps.
 ```
 
 6. For BeamNG.drive: enable OutGauge support in-game (Options → Others → OutGauge, IP `127.0.0.1`, port `63392` — or the SimHub PC's LAN IP if running on a separate machine)
+
 ## What's working
 
 - Speedometer
@@ -66,6 +79,10 @@ The shield's onboard 120 Ω termination stays enabled. The bus runs at 500 kbps.
 - TCS / DSC warning
 - ABS
 - Handbrake
+
+## Support
+
+Questions, help with your setup, or want to show off your build? Join the **BimmerCraft** Discord: https://discord.gg/bHQ95tqWrw
 
 ## Credits
 
