@@ -33,7 +33,9 @@ Tested one? Let us know on Discord or open an issue.
 | 12 | Shield CAN-L |
 | 4, 5 | optional 10k NTC for the outside temperature display |
 
-The shield's onboard 120 Ω termination stays enabled. The bus runs at 500 kbps. The cluster and Arduino must share a common ground.
+## Support
+
+Questions, help with your setup, or want to show off your build? Join the **BimmerCraft** Discord: https://discord.gg/bHQ95tqWrw
 
 ## Software setup
 
@@ -79,10 +81,6 @@ The shield's onboard 120 Ω termination stays enabled. The bus runs at 500 kbps.
 - TCS / DSC warning
 - ABS
 - Handbrake
-
-## Support
-
-Questions, help with your setup, or want to show off your build? Join the **BimmerCraft** Discord: https://discord.gg/bHQ95tqWrw
 
 ## Credits
 
