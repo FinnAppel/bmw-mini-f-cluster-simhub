@@ -72,6 +72,7 @@ Tested one? Let us know on Discord (see below) or open an issue.
 - Tachometer (RPM)
 - Turn signals
 - Engine warning light
+- Gear lever position
 
 ## Adding later
 
