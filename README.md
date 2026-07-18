@@ -14,8 +14,7 @@ Connect a real BMW / Mini F-series instrument cluster to BeamNG.drive (or any ot
 
 | Cluster | Status |
 | ------- | ------ |
-| Mini F56 | ✅ Working |
-| Other Mini F5x | ⚠️ Untested |
+| Mini F5x | ✅ Working |
 | BMW F-series (F20, F30, F10, ...) | ⚠️ Untested |
 | BMW F-series (F40, F70, F90, ...) | ❌ Unsupported |
 
