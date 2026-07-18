@@ -53,7 +53,7 @@ The shield's onboard 120 Ω termination stays enabled. The bus runs at 500 kbps.
 '}\n'
 ```
 
-6. For BeamNG.drive: enable OutGauge support in-game (Options → Others → OutGauge, IP `127.0.0.1`, port `4444` — or the SimHub PC's LAN IP if running on a separate machine)
+6. For BeamNG.drive: enable OutGauge support in-game (Options → Others → OutGauge, IP `127.0.0.1`, port `63392` — or the SimHub PC's LAN IP if running on a separate machine)
 ## What's working
 
 - Speedometer
