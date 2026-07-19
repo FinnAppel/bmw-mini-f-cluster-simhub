@@ -78,7 +78,7 @@ Tested one? Let us know on Discord (see below) or open an issue.
 - TCS / DSC warning
 - ABS
 - Handbrake
-
+- Fuel level gauge
 
 ## Support
 
